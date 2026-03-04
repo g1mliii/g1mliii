@@ -16,24 +16,33 @@ focus: Full-Stack Systems, Cross-Platform Mobile/Desktop Apps, AI Tools
 current_projects:
   - Ghostcopy: Invisible cross-platform clipboard sync utility
   - PressPlay: Windows game storage optimizer (Flutter/Rust)
-  - GodotAIIDE
+  - Godot AI IDE: AI-powered coding assistant integrated directly into Godot
+  - Anchored: Smart note-taking platform
 philosophy: Start with user needs, build the simplest solution, iterate fast.
 ```
 
-### 🧰 Tools & Technologies
+### 🧰 Frameworks, Databases & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="45" height="45" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="45" height="45" title="Rust"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" width="45" height="45" title="Godot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45" title="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45" title="Jenkins"/>
 </p>
 
-### 📈 GitHub Stats
+### 💻 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g1mliii&show_icons=true&theme=radical" alt="Subaig's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1mliii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=g1mliii&theme=radical&no-frame=true&margin-w=15" alt="Subaig's Trophies" />
 </p>
 
 ### 🐍 Contribution Snake
