@@ -35,14 +35,14 @@ philosophy: Start with user needs, build the simplest solution, iterate fast.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45" title="Jenkins"/>
 </p>
 
-### 💻 Top Languages
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1mliii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=g1mliii&theme=radical&hide_border=true&v=1" alt="Subaig's GitHub Streak" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=g1mliii&theme=radical&no-frame=true&margin-w=15" alt="Subaig's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=g1mliii&theme=radical&no-frame=true&margin-w=15&v=1" alt="Subaig's Trophies" />
 </p>
 
 ### 🐍 Contribution Snake
