@@ -2,19 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Subaig!&animation=fadeIn&type=waving&color=gradient&height=100" alt="Header" />
 </p>
 
-<p align="center">
-  <a href="https://g1mliii.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/subaig-s-a2189b2b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<div align="center">
 
-  <a href="mailto:subaigsuri1@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-</p>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://g1mliii.github.io/portfolio/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subaig-s-a2189b2b3/)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:subaigsuri1@outlook.com)
+
+</div>
 
 ### 👨‍💻 About Me
 
