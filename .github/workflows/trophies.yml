@@ -7,7 +7,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: stalomeow/metrics@projects-v2
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
