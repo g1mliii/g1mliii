@@ -4,7 +4,15 @@
 
 <p align="center">
   <a href="https://g1mliii.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/subaig-s-a2189b2b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:subaigsuri1@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
