@@ -45,55 +45,25 @@ current_projects:
 philosophy: Start with user needs, build the simplest solution, iterate fast.
 
 ```
+## 🧰 Frameworks, Databases & Tools
 
+| Flutter | React | Next.js | Node.js | FastAPI |
+|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" /> |
 
-### 🧰 Frameworks, Databases & Tools
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45" title="Flutter"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45" title="React"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" title="Next.js"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" title="Node.js"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45" title="FastAPI"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45" title="Supabase"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" title="PostgreSQL"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" title="SQLite"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45" title="Git"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45" title="Jenkins"/>
-
+| Supabase | PostgreSQL | SQLite | Git | Jenkins |
+|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /> |
 
 ### 🔥 GitHub Streak
-
 <p align="center">
-
   <img src="https://streak-stats.demolab.com/?user=g1mliii&theme=radical&hide_border=true&v=1" alt="Subaig's GitHub Streak" />
-
 </p>
-
-
-
 ### 🏆 GitHub Achievements
-
 <p align="center">
-
   <img src="https://raw.githubusercontent.com/g1mliii/g1mliii/main/achievements.svg" alt="Subaig's Trophies" />
-
 </p>
-
-
-
 ### 🐍 Contribution Snake
-
 <p align="center">
-
   <img src="https://raw.githubusercontent.com/g1mliii/g1mliii/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 </p>
