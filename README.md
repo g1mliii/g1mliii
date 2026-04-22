@@ -3,11 +3,9 @@
 </p>
 
 <div align="center">
-
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://g1mliii.github.io/portfolio/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subaig-s-a2189b2b3/)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:subaigsuri1@outlook.com)
-
 </div>
 
 ### 👨‍💻 About Me
