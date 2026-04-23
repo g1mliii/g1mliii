@@ -36,7 +36,7 @@ current_projects:
 
   - Ghostcopy: Invisible cross-platform clipboard sync utility
 
-  - PressPlay: Windows game storage optimizer (Flutter/Rust)
+  - Compact Games: Windows game storage optimizer (Flutter/Rust)
 
   - Godot AI IDE: AI-powered coding assistant integrated directly into Godot
 
