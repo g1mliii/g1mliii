@@ -11,19 +11,23 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Subaig Suri
-focus: Full-Stack Systems, Cross-Platform Mobile/Desktop Apps, AI Pipelines
-current_projects:
-  - AptBazaar:    QR-storefront platform for local sellers — Stripe Connect + Supabase + Next.js
-  - GhostCopy:    Cross-platform clipboard sync for Windows, macOS, iOS & Android (Flutter/Dart)
-  - AnyDash:      AI-powered dashboard builder — describe it, it builds it (React 19/FastAPI/Tauri)
-  - Godot AI IDE: AI coding assistant integrated directly into the Godot game engine
-shipped:
-  - Compact Games: Windows game storage optimizer — Flutter + Rust, 13 releases
-  - Anchored:      URL-linked notes platform — 1,000+ active users, Chrome + PWA
-philosophy: Start with user needs, build the simplest solution, iterate fast.
-```
+**Name:** Subaig Suri  
+**Focus:** Full-Stack Systems, Cross-Platform Mobile/Desktop Apps, AI Pipelines
+
+#### Current Projects
+
+- [**Stoop**](https://github.com/g1mliii/Stoop) — QR-storefront platform for local sellers using Stripe Connect, Supabase, and Next.js.
+- [**Ghostcopy**](https://github.com/g1mliii/Ghostcopy) — Cross-platform clipboard sync for Windows, macOS, iOS, and Android.
+- [**AnyDash**](https://github.com/g1mliii/AnyDash) — AI-powered dashboard builder using React 19, FastAPI, and Tauri.
+- [**Project Heimdall**](https://github.com/g1mliii/Project-Heimdall) — Open-source game benchmarking hub with frame-time capture, interactive reports, and automated performance diagnostics.
+- [**Gaming Gauntlet**](https://github.com/g1mliii/gaming-gauntlet) — Two-player stream match tool with a game wheel, scoreboards, and OBS overlays. [Live site](https://gaming-gauntlet.com/).
+
+#### Shipped
+
+- [**Compact Games**](https://github.com/g1mliii/compact-games) — Released Windows game-storage optimizer built with Flutter and Rust. [Website and download](https://g1mliii.github.io/compact-games/).
+- [**Anchored**](https://github.com/g1mliii/Anchored) — URL-linked notes platform with encrypted sync, a Chrome extension, and PWA. [Website](https://anchored.site/).
+
+**Philosophy:** Start with user needs, build the simplest solution that works, and iterate based on real feedback.
 
 ## 🧰 Frameworks, Databases & Tools
 
