@@ -24,7 +24,7 @@
 
 #### Shipped
 
-- [**Compact Games**](https://github.com/g1mliii/compact-games) — Released Windows game-storage optimizer built with Flutter and Rust. [Website and download](https://g1mliii.github.io/compact-games/).
+- [**Compact Games**](https://github.com/g1mliii/compact-games) — Released Windows game-storage optimizer built with Flutter and Rust. [Website and download](https://compactgames.app/).
 - [**Anchored**](https://github.com/g1mliii/Anchored) — URL-linked notes platform with encrypted sync, a Chrome extension, and PWA. [Website](https://anchored.site/).
 
 **Philosophy:** Start with user needs, build the simplest solution that works, and iterate based on real feedback.
