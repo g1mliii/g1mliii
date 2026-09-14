@@ -17,7 +17,7 @@
 #### Current Projects
 
 - [**Stoop**](https://github.com/g1mliii/Stoop) — QR-storefront platform for local sellers using Stripe Connect, Supabase, and Next.js.
-- [**Ghostcopy**](https://github.com/g1mliii/Ghostcopy) — Cross-platform clipboard sync for Windows, macOS, iOS, and Android.
+- [**Ghostcopy**](https://ghostcopy.app/) — Cross-platform clipboard sync for Windows, macOS, iOS, and Android.
 - [**AnyDash**](https://github.com/g1mliii/AnyDash) — AI-powered dashboard builder using React 19, FastAPI, and Tauri.
 - [**Project Heimdall**](https://github.com/g1mliii/Project-Heimdall) — Open-source game benchmarking hub with frame-time capture, interactive reports, and automated performance diagnostics.
 - [**Gaming Gauntlet**](https://github.com/g1mliii/gaming-gauntlet) — Two-player stream match tool with a game wheel, scoreboards, and OBS overlays. [Live site](https://gaming-gauntlet.com/).
