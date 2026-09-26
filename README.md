@@ -17,13 +17,13 @@
 #### Current Projects
 
 - [**Stoop**](https://github.com/g1mliii/Stoop) — QR-storefront platform for local sellers using Stripe Connect, Supabase, and Next.js.
-- [**Ghostcopy**](https://ghostcopy.app/) — Cross-platform clipboard sync for Windows, macOS, iOS, and Android.
 - [**AnyDash**](https://github.com/g1mliii/AnyDash) — AI-powered dashboard builder using React 19, FastAPI, and Tauri.
 - [**Project Heimdall**](https://github.com/g1mliii/Project-Heimdall) — Open-source game benchmarking hub with frame-time capture, interactive reports, and automated performance diagnostics.
 - [**Gaming Gauntlet**](https://github.com/g1mliii/gaming-gauntlet) — Two-player stream match tool with a game wheel, scoreboards, and OBS overlays. [Live site](https://gaming-gauntlet.com/).
 
 #### Shipped
 
+- [**GhostCopy**](https://github.com/g1mliii/Ghostcopy) — Copy on your computer, paste on your phone: clipboard sync with one keystroke and optional end-to-end encryption, built with Flutter and Supabase. [Download for Mac](https://ghostcopy.app/download/macos) · [iPhone on TestFlight](https://testflight.apple.com/join/62aWHQzj) · Windows coming to the Microsoft Store · [Website](https://ghostcopy.app/).
 - [**Compact Games**](https://github.com/g1mliii/compact-games) — Released Windows game-storage optimizer built with Flutter and Rust. [Website and download](https://compactgames.app/).
 - [**Anchored**](https://github.com/g1mliii/Anchored) — URL-linked notes platform with encrypted sync, a Chrome extension, and PWA. [Website](https://anchored.site/).
 
