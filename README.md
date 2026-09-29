@@ -23,7 +23,7 @@
 
 #### Shipped
 
-- [**GhostCopy**](https://github.com/g1mliii/Ghostcopy) — Copy on your computer, paste on your phone: clipboard sync with one keystroke and optional end-to-end encryption, built with Flutter and Supabase. [Download for Mac](https://ghostcopy.app/download/macos) · [iPhone on TestFlight](https://testflight.apple.com/join/62aWHQzj) · Windows coming to the Microsoft Store · [Website](https://ghostcopy.app/).
+- [**GhostCopy**](https://github.com/g1mliii/Ghostcopy) — Copy on your computer, paste on your phone: clipboard sync with one keystroke and optional end-to-end encryption, built with Flutter and Supabase. [Download for Mac](https://ghostcopy.app/download/macos) · [iPhone on TestFlight](https://testflight.apple.com/join/62aWHQzj) · [Windows on the Microsoft Store](https://apps.microsoft.com/detail/9NW0TTGMSF80) · [Website](https://ghostcopy.app/).
 - [**Compact Games**](https://github.com/g1mliii/compact-games) — Released Windows game-storage optimizer built with Flutter and Rust. [Website and download](https://compactgames.app/).
 - [**Anchored**](https://github.com/g1mliii/Anchored) — URL-linked notes platform with encrypted sync, a Chrome extension, and PWA. [Website](https://anchored.site/).
 
